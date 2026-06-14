@@ -3,7 +3,9 @@
 This project aims to detect fraudulent credit card transactions using Machine Learning techniques. A Random Forest Classifier is trained on historical transaction data to classify transactions as either legitimate or fraudulent. The model helps financial institutions reduce fraud losses and improve transaction security.
 
 ## Features
-->Data preprocessing and analysis ->Fraud detection using Random Forest Classifier ->Model evaluation using Accuracy, Precision, Recall, and F1-Score ->Confusion Matrix visualization ->Prediction of fraudulent and legitimate transactions ->High-performance classification on real-world transaction data
+->Data preprocessing and analysis
+->Fraud detection using Random Forest Classifier ->Model evaluation using Accuracy, Precision, Recall, and F1-Score ->Confusion Matrix visualization 
+->Prediction of fraudulent and legitimate transactions ->High-performance classification on real-world transaction data
 
 ## Technologies Used
 Python Pandas Matplotlib Scikit-learn Random Forest Algorithm
